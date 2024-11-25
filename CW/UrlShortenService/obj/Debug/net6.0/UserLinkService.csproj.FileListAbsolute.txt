@@ -1,0 +1,393 @@
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\UserLinkService.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\UserLinkService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\UserLinkService.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\UserLinkService.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\UserLinkService.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\UserLinkService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\UserLinkService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\UserLinkService.exe
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\UserLinkService.deps.json
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\UserLinkService.runtimeconfig.json
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\UserLinkService.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\UserLinkService.pdb
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\staticwebassets\msbuild.UserLinkService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\staticwebassets\msbuild.build.UserLinkService.props
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserLinkService.props
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserLinkService.props
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\scopedcss\bundle\UserLinkService.styles.css
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\UserLinkService.csproj.CopyComplete
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\UserLinkService.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\refint\UserLinkService.dll
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\UserLinkService.pdb
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\UserLinkService.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Note\AMD\AspNetCoreMicroservicesDemo-master\StudentService\obj\Debug\net6.0\ref\UserLinkService.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\UserLinkService.exe
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\UserLinkService.deps.json
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\UserLinkService.runtimeconfig.json
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\UserLinkService.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\UserLinkService.pdb
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\UserLinkService.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\UserLinkService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\UserLinkService.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\UserLinkService.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\UserLinkService.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\UserLinkService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\UserLinkService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\staticwebassets\msbuild.UserLinkService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\staticwebassets\msbuild.build.UserLinkService.props
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserLinkService.props
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserLinkService.props
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\scopedcss\bundle\UserLinkService.styles.css
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\UserLinkService.csproj.CopyComplete
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\UserLinkService.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\refint\UserLinkService.dll
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\UserLinkService.pdb
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\UserLinkService.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Note\AMD\AMD 1\StudentService\obj\Debug\net6.0\ref\UserLinkService.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\appsettings.Development.json
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\appsettings.json
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\UserLinkService.exe
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\UserLinkService.deps.json
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\UserLinkService.runtimeconfig.json
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\UserLinkService.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\UserLinkService.pdb
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Humanizer.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.csproj.AssemblyReference.cache
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.AssemblyInfoInputs.cache
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.AssemblyInfo.cs
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.csproj.CoreCompileInputs.cache
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.MvcApplicationPartsAssemblyInfo.cs
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.MvcApplicationPartsAssemblyInfo.cache
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\staticwebassets.build.json
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\staticwebassets.development.json
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\staticwebassets\msbuild.UserLinkService.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\staticwebassets\msbuild.build.UserLinkService.props
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserLinkService.props
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserLinkService.props
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\scopedcss\bundle\UserLinkService.styles.css
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLink.13D53530.Up2Date
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\refint\UserLinkService.dll
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.pdb
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.genruntimeconfig.cache
+F:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\ref\UserLinkService.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\appsettings.Development.json
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\appsettings.json
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\UserLinkService.staticwebassets.runtime.json
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\UserLinkService.exe
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\UserLinkService.deps.json
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\UserLinkService.runtimeconfig.json
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\UserLinkService.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\UserLinkService.pdb
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Humanizer.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.csproj.AssemblyReference.cache
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.AssemblyInfoInputs.cache
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.AssemblyInfo.cs
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.csproj.CoreCompileInputs.cache
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.MvcApplicationPartsAssemblyInfo.cs
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.MvcApplicationPartsAssemblyInfo.cache
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\staticwebassets.build.json
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\staticwebassets.development.json
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\staticwebassets\msbuild.UserLinkService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\staticwebassets\msbuild.build.UserLinkService.props
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserLinkService.props
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserLinkService.props
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\scopedcss\bundle\UserLinkService.styles.css
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLink.13D53530.Up2Date
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\refint\UserLinkService.dll
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.pdb
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\UserLinkService.genruntimeconfig.cache
+D:\Studies\Coding\C#-HTML\AMD201\URLShortener\StudentService\obj\Debug\net6.0\ref\UserLinkService.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\UserLinkService.staticwebassets.runtime.json
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\UserLinkService.exe
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\UserLinkService.deps.json
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\UserLinkService.runtimeconfig.json
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\UserLinkService.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\UserLinkService.pdb
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\staticwebassets\msbuild.UserLinkService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\staticwebassets\msbuild.build.UserLinkService.props
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserLinkService.props
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserLinkService.props
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\scopedcss\bundle\UserLinkService.styles.css
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.csproj.CopyComplete
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\refint\UserLinkService.dll
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.pdb
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Note\AMD\URLShortener\UrlShortenService\obj\Debug\net6.0\ref\UserLinkService.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\UserLinkService.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\UserLinkService.exe
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\UserLinkService.deps.json
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\UserLinkService.runtimeconfig.json
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\UserLinkService.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\UserLinkService.pdb
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.AssemblyInfo.cs
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\staticwebassets\msbuild.UserLinkService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\staticwebassets\msbuild.build.UserLinkService.props
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserLinkService.props
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserLinkService.props
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\scopedcss\bundle\UserLinkService.styles.css
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLink.13D53530.Up2Date
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\refint\UserLinkService.dll
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.pdb
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\UserLinkService.genruntimeconfig.cache
+C:\Users\Admin\Downloads\URLShortener\URLShortener\UrlShortenService\obj\Debug\net6.0\ref\UserLinkService.dll

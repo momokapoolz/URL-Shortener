@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\client\obj\Debug\client.esproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\client\obj\Debug\client.esproj.CoreCompileInputs.cache

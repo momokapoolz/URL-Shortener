@@ -1,0 +1,264 @@
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\appsettings.Development.json
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\appsettings.json
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\gateway.json
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\api-gateway.exe
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\api-gateway.deps.json
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\api-gateway.runtimeconfig.json
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\api-gateway.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\api-gateway.pdb
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\FluentValidation.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\IPAddressRange.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\Ocelot.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\api-gateway.csproj.AssemblyReference.cache
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\api-gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfoInputs.cache
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfo.cs
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\api-gateway.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cs
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\api-gateway.sourcelink.json
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\staticwebassets.build.json
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\staticwebassets.development.json
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.api-gateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.api-gateway.props
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api-gateway.props
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api-gateway.props
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\staticwebassets.pack.json
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\scopedcss\bundle\api-gateway.styles.css
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\api-gate.DADD0DFD.Up2Date
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\api-gateway.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\refint\api-gateway.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\api-gateway.pdb
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\api-gateway.genruntimeconfig.cache
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\obj\Debug\net8.0\ref\api-gateway.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\CacheManager.Core.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Logging.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\workspace\FGW-AMD201\amd201-co1101\microservice\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\gateway.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\api-gateway.exe
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\api-gateway.deps.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\api-gateway.runtimeconfig.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\api-gateway.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\api-gateway.pdb
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\CacheManager.Core.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\api-gateway.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\api-gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfo.cs
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\api-gateway.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\api-gateway.sourcelink.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.api-gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.api-gateway.props
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api-gateway.props
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api-gateway.props
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\scopedcss\bundle\api-gateway.styles.css
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\api-gate.DADD0DFD.Up2Date
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\api-gateway.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\refint\api-gateway.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\api-gateway.pdb
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\api-gateway.genruntimeconfig.cache
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\microservice luyen tap code cua thay\amd201-co1101-main\microservice\api-gateway\obj\Debug\net8.0\ref\api-gateway.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\gateway.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\api-gateway.exe
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\api-gateway.deps.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\api-gateway.runtimeconfig.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\api-gateway.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\api-gateway.pdb
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\CacheManager.Core.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\api-gateway.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\api-gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfo.cs
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\api-gateway.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\api-gateway.sourcelink.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.api-gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.api-gateway.props
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api-gateway.props
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api-gateway.props
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\scopedcss\bundle\api-gateway.styles.css
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\api-gate.DADD0DFD.Up2Date
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\api-gateway.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\refint\api-gateway.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\api-gateway.pdb
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\api-gateway.genruntimeconfig.cache
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice\api-gateway\obj\Debug\net8.0\ref\api-gateway.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\gateway.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\api-gateway.exe
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\api-gateway.deps.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\api-gateway.runtimeconfig.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\api-gateway.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\api-gateway.pdb
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\CacheManager.Core.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfo.cs
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.sourcelink.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.api-gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.api-gateway.props
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api-gateway.props
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api-gateway.props
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\scopedcss\bundle\api-gateway.styles.css
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gate.DADD0DFD.Up2Date
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\refint\api-gateway.dll
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.pdb
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.genruntimeconfig.cache
+C:\Users\Admin\Documents\Developing-Coding-Programming UoG\program year 2 ae\C#\Advance Microservices Code with C# ASP.NET\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\ref\api-gateway.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\gateway.json
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\api-gateway.exe
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\api-gateway.deps.json
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\api-gateway.runtimeconfig.json
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\api-gateway.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\api-gateway.pdb
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\CacheManager.Core.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfo.cs
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.api-gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.api-gateway.props
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api-gateway.props
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api-gateway.props
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\scopedcss\bundle\api-gateway.styles.css
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gate.DADD0DFD.Up2Date
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\refint\api-gateway.dll
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.pdb
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\api-gateway.genruntimeconfig.cache
+C:\Users\Admin\Documents\Developing-Programming Self project\URL Shortener\Microservice gateway practice (CW)\api-gateway\obj\Debug\net8.0\ref\api-gateway.dll

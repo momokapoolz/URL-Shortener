@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1s3DTCMql/Y4mxearBLQM4bSDwSvQJiohd/xoqEcMyE=",
+  "Source": "laptop-service",
+  "BasePath": "_content/laptop-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
